@@ -129,7 +129,7 @@ ESP32通过CP2102驱动下载代码。所以在使用它之前，我们需要在
 
 **MAC 系统**
 
-安装CP2102驱动方法请参照 “**<span style="background: rgb(255, 251, 0);">Arduino C 教程 Windows</span>**” 教程中 “<span style="color: rgb(255, 76, 65);">开发环境设置</span>” 部分。
+安装CP2102驱动方法请参照 “**<span style="background: rgb(255, 251, 0);">Arduino C 教程</span>**” 教程中 “<span style="color: rgb(255, 76, 65);">开发环境设置</span>” 部分。
 
 **四、烧入Micropython固件(重要)**
 
