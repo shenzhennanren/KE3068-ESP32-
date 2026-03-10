@@ -12,7 +12,7 @@
     MicroPython 资料下载
 
 
-5.2 MicroPython 开发环境设置
+5.2 开发环境设置
 =========
 
 .. toctree::

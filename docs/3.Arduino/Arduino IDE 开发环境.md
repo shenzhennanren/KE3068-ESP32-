@@ -1,4 +1,4 @@
-## Arduino 开发环境设置
+## Arduino 开发环境
 
 ### **1. Arduino IDE 下载**
 

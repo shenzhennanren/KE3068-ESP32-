@@ -12,7 +12,7 @@
     Arduino 资料下载
 
 
-3.2 Arduino IDE 开发环境设置
+3.2 开发环境设置
 =========
 
 .. toctree::
