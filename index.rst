@@ -4,14 +4,12 @@
    :caption: KE3068
 
    README.md
-   docs/产品介绍/1.产品介绍
-   docs/智能农场组装/2.智能农场组装
-   docs/CH340驱动安装/3.CH340驱动安装（选读）
-   docs/Arduino教程/4.Arduino教程
-   docs/KidsBlock(Scratch)教程/5.KidsBlock(Scratch)教程
-   docs/Mixly教程/6.Mixly教程
-   docs/常见问题解答/7.常见问题解答
-   docs/8.KEYES相关产品
+   docs/1.产品介绍/1.产品介绍
+   docs/2.驱动安装/2.驱动安装
+   docs/3.Arduino/3.Arduino C 教程
+   docs/4.Mixly/4.Mixly 教程
+   docs/5.Python/5.MicroPython 教程
+
 
 
 
