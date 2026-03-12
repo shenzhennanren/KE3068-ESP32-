@@ -1,17 +1,16 @@
 
 .. toctree::
    :maxdepth: 3
-   :caption: KE3068
+   :caption: 产品编码 文档的项目名称
 
    README.md
-   docs/1.产品介绍/1.产品介绍
-   docs/2.驱动安装/2.驱动安装
-   docs/3.Arduino/3.Arduino C 教程
-   docs/4.Mixly/4.Mixly 教程
-   docs/5.Python/5.MicroPython 教程
-
-
-
+   docs/1. 产品介绍
+   docs/2. 产品安装
+   docs/3. 安装驱动
+   docs/4. Arduino教程/Arduino
+   docs/5. kidsblock教程/KidsBlock
+   docs/6. 资料下载
+   docs/7. 问题解答
 
 
 
