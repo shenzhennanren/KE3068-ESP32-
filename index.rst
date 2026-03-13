@@ -6,7 +6,7 @@
    README.md
    docs/1. 产品介绍
    docs/2. 产品安装
-   docs/3. 安装驱动/3. 驱动安装（选读）
+   docs/3. 安装驱动/3. 安装驱动（选读）
    docs/4. Arduino教程/Arduino
    docs/5. kidsblock教程/KidsBlock
    docs/6. 资料下载
